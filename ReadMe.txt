@@ -10,3 +10,6 @@ Instructions on how to run the SMART Web Application in your Local Computer:
 
 4. Right click on the  on the folder and run a command line program. In this command line program, write streamlit run Home.py to run the SMART Web Application. 
 
+
+Link to the SMART Web Application: 
+https://moabdul123-team-safari-smart-web-application-home-99fsig.streamlit.app/
